@@ -14,5 +14,3 @@ AWS Glue               11.2
 
 ## Usage
 usage: main.py [-h] [-G1 {groupby1}] [-G2 {groupby2}] [-D {day range}]
-
-
