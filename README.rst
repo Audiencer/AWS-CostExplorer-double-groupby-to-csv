@@ -5,6 +5,7 @@
 This script use 2 groupby in GetCostAndUsage API and generate a CSV file with first groupby as row name and second groupby as column name.
 
 Example result if you use `SERVICE` as groupby1 and `LIKNEDACCOUNT` as groupby2, and the value is unblended cost.
+
 ============== ============ ============ ============ ============ ============ ============
                000000000000 111111111111 222222222222 333333333333 444444444444 555555555555
 ============== ============ ============ ============ ============ ============ ============
