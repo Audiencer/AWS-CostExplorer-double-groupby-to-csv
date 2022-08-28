@@ -7,7 +7,7 @@ This script use 2 groupby in GetCostAndUsage API and generate a CSV file with fi
 Example result if you use `SERVICE` as groupby1 and `LIKNEDACCOUNT` as groupby2, and the value is unblended cost.
 
 ============== ============ ============ ============ ============
-                AccountID1   AccountID2   AccountID3   AccountID4 
+AccountID      AccountID1   AccountID2   AccountID3   AccountID4 
 ============== ============ ============ ============ ============ 
 AWS CloudTrail          0.0
 AWS Config             10.0
