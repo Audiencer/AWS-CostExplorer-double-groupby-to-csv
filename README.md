@@ -15,12 +15,5 @@ AWS Lambda             13.3
 AWS Glue               11.2
 ============== ============ ============ ============ ============ ============ ============
 
-<<<<<<< HEAD:README.md
-## Usage
-usage: main.py [-h] [-G1 {groupby1}] [-G2 {groupby2}] [-D {day range}]
-=======
 ##Usage
 usage: main.py [-h] [-G1 {groupby1}] [-G2 {groupby2}] [-D {day range}]
-
-
->>>>>>> b7eefaa95dd55df6b9804f967e1acc967aa12584:ReadMe.txt
